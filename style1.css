@@ -1,0 +1,24 @@
+git body{
+    background-color: lightpink;
+}
+title{
+    text-align:center;
+    font-size:30px;
+    color:purple;
+}
+.author
+{
+   font-size:10px;
+   color:gray;
+   margin-bottom:20px;
+}
+.content
+{
+    font-size:16px;
+    color:brown;
+}
+.politics
+{
+    font-size:16px;
+    color:brown;
+}
