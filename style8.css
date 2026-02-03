@@ -1,0 +1,36 @@
+a:link{
+    color:blue;
+
+}
+
+a:visited{
+    color:green;
+}
+a:hover{
+    color:violet;
+    font-size:1.2em;
+}
+a:active{
+    color:red;
+    font-size:1.1em;
+}
+li:hover{
+    background-color:turquoise;
+
+}
+li:not(:hover){
+    background-color:yellow;
+}
+li:nth-child(6n){
+    background-color:lime;
+
+}
+#greeting h2{
+    color:orchid;
+   display:none;
+    padding:10px;
+}
+#greeting:hover h2{
+    display :block;
+
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: tomato;
+}
+h1{
+    color:green;
+}
+p{
+    color:rgb(132, 238, 130);
+}
+.box{
+    background-color: blue;
+    width:100px;
+    height:200px;
+    border-radius: 10px;
+    padding:30px;
+    margin:10px;
+    
+
+}
